@@ -17,6 +17,7 @@
 		848C67472ADBF960005C169E /* menu.json in Resources */ = {isa = PBXBuildFile; fileRef = 848C67462ADBF960005C169E /* menu.json */; };
 		848C67492ADBFECC005C169E /* ItemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848C67482ADBFECC005C169E /* ItemRow.swift */; };
 		848C674B2ADC0C1C005C169E /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848C674A2ADC0C1C005C169E /* ItemDetail.swift */; };
+		848C674D2ADC12E6005C169E /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848C674C2ADC12E6005C169E /* OrderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		848C67462ADBF960005C169E /* menu.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = menu.json; path = ../../../Downloads/idine/menu.json; sourceTree = "<group>"; };
 		848C67482ADBFECC005C169E /* ItemRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRow.swift; sourceTree = "<group>"; };
 		848C674A2ADC0C1C005C169E /* ItemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetail.swift; sourceTree = "<group>"; };
+		848C674C2ADC12E6005C169E /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				848C67322ADBF8B6005C169E /* iDineSwiftUIApp.swift */,
 				848C67342ADBF8B6005C169E /* ContentView.swift */,
 				848C674A2ADC0C1C005C169E /* ItemDetail.swift */,
+				848C674C2ADC12E6005C169E /* OrderView.swift */,
 				848C67482ADBFECC005C169E /* ItemRow.swift */,
 				848C67402ADBF94C005C169E /* Helper.swift */,
 				848C67422ADBF94C005C169E /* Menu.swift */,
@@ -157,6 +160,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				848C674B2ADC0C1C005C169E /* ItemDetail.swift in Sources */,
+				848C674D2ADC12E6005C169E /* OrderView.swift in Sources */,
 				848C67352ADBF8B6005C169E /* ContentView.swift in Sources */,
 				848C67332ADBF8B6005C169E /* iDineSwiftUIApp.swift in Sources */,
 				848C67442ADBF94C005C169E /* Order.swift in Sources */,
