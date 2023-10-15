@@ -19,6 +19,7 @@
 		848C674B2ADC0C1C005C169E /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848C674A2ADC0C1C005C169E /* ItemDetail.swift */; };
 		848C674D2ADC12E6005C169E /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848C674C2ADC12E6005C169E /* OrderView.swift */; };
 		848C674F2ADC146B005C169E /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848C674E2ADC146B005C169E /* MainView.swift */; };
+		848C67512ADC184A005C169E /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848C67502ADC184A005C169E /* CheckoutView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		848C674A2ADC0C1C005C169E /* ItemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetail.swift; sourceTree = "<group>"; };
 		848C674C2ADC12E6005C169E /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
 		848C674E2ADC146B005C169E /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		848C67502ADC184A005C169E /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 			children = (
 				848C67322ADBF8B6005C169E /* iDineSwiftUIApp.swift */,
 				848C67342ADBF8B6005C169E /* ContentView.swift */,
+				848C67502ADC184A005C169E /* CheckoutView.swift */,
 				848C674A2ADC0C1C005C169E /* ItemDetail.swift */,
 				848C674C2ADC12E6005C169E /* OrderView.swift */,
 				848C674E2ADC146B005C169E /* MainView.swift */,
@@ -164,6 +167,7 @@
 			files = (
 				848C674B2ADC0C1C005C169E /* ItemDetail.swift in Sources */,
 				848C674F2ADC146B005C169E /* MainView.swift in Sources */,
+				848C67512ADC184A005C169E /* CheckoutView.swift in Sources */,
 				848C674D2ADC12E6005C169E /* OrderView.swift in Sources */,
 				848C67352ADBF8B6005C169E /* ContentView.swift in Sources */,
 				848C67332ADBF8B6005C169E /* iDineSwiftUIApp.swift in Sources */,
